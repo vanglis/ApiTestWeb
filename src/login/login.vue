@@ -52,8 +52,7 @@
                 <div class="page-login--content-footer">
 
                     <p class="page-login--content-footer-copyright">
-                        <a href="https://github.com/pencil1/ApiTestWeb" target="view_window">ApiTestWeb 作品</a> |
-                        <a href="https://github.com/pencil1/ApiTestManage" target="view_window">ApiTestManage 作品</a>
+
                     </p>
 
                 </div>
