@@ -21,11 +21,11 @@ module.exports = {
         host: '127.0.0.1',
         // host: '192.168.0.106',
         // host: '47.107.147.188',
-        port: 8085,
+        port: 8081,
         proxy: {
             '/api/': {
-                target: 'http://apitest.qnntest.kuainiujinke.com',
-                // target: '192.168.0.106:8080',
+                //target: 'http://apitest.qnntest.kuainiujinke.com',
+                 target: 'http://127.0.0.1:8086',
                 // target: 'http://172.18.2.200:8080',
                 changeOrigin: true,
             }
